@@ -1,4 +1,4 @@
 figlarki.pl
 ===========
 
-Clone figlarki.pl portal
+Kopia plików źródłowych portalu z ogłoszeniami towarzyskimi http://figlarki.pl
